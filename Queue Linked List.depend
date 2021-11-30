@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1614354051 source:e:\codeblocks\queue linked list\queue linked list.c
+	"Queue Linked List.h"
+	<stddef.h>
+
+1614354051 e:\codeblocks\queue linked list\queue linked list.h
+
+1614354117 source:e:\codeblocks\queue linked list\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue Linked List.h"
+
